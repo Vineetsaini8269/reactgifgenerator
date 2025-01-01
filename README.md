@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To see this project UI click tonetlify link below -
+ project Link - https://reactgifgenerator.netlify.app/
 
 ## Available Scripts
 
